@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bonnie lassie to its own pleasant new tune.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17970</idno><idno type="EEBO-CITATION">13110283</idno>
+  <idno type="VID">206068</idno>
+  <idno type="EEBO-PROQUEST">2240852745</idno>
+  
+            <idno type="STC">Wing B3603A</idno>
+            <idno type="OCLC">13110283</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1544:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bonnie lassie to its own pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Includes "The New way of the bonny highland laddie &amp;c." and "The Royal sheperd's happy life."</note>
+                  <note>Reproduction of original in the Haravard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:206068:1"/>
+            <head>The new way of the bonny Highland Lad<g ref="char:EOLhyphen"/>die, <hi>&amp;c.</hi>
+            </head>
+            <opener>To its own proper Tune.</opener>
+            <lg>
+               <l>I Crossed <hi>Forth</hi> I crossed <hi>Tay,</hi>
+               </l>
+               <l>I rest <hi>Dundee</hi> and <hi>Edinborrow,</hi>
+               </l>
+               <l>I saw nothing there worth my stay,</l>
+               <l>and so <hi>I</hi> bad them all Good-morrow</l>
+               <l>
+                  <hi>O my bonny bonny Highland Laddie,</hi>
+               </l>
+               <l>
+                  <hi>O my bonny bonny Highland Laddie,</hi>
+               </l>
+               <l>
+                  <hi>When I'm Sick and like to die,</hi>
+               </l>
+               <l>
+                  <hi>thou'lt row me in thy Highland pladie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For on the <hi>Cairn-mount</hi> I espi'd,</l>
+               <l>in careless dress a <hi>Highland Laddie,</hi>
+               </l>
+               <l>Who briskly said, were't thou my bride</l>
+               <l>I'de row thee in my highland pladie.</l>
+               <l>
+                  <hi>O my bonny bonny,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>No <hi>Butter-box</hi> he seem'd to be,</l>
+               <l>no <hi>England Fop</hi> nor Lowland-laddie,</l>
+               <l>But by his Mein he was well known,</l>
+               <l>to be some Gentle Hiland Laddie.</l>
+               <l>
+                  <hi>O my bonny bonny,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>His Quiver hang down by his Thigh,</l>
+               <l>his mein did show his Bow was ready</l>
+               <l>A thousand Darts flew from his Eye,</l>
+               <l>and all fell down before his Lady.</l>
+               <l>
+                  <hi>O my bonny bonny</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>'Tis silken Rooms and pearled Beds,</l>
+               <l>and laced Shoes is for a Lady,</l>
+               <l>But he can do't as wantonly,</l>
+               <l>in highland <hi>Trows</hi> &amp; <hi>Belted-pladie.</hi>
+               </l>
+               <l>
+                  <hi>O my bonny bonny,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> will have no Commander Man,</l>
+               <l>Captain Col'nel nor a Cadie,</l>
+               <l>If all my Friends had sworn &amp; said,</l>
+               <l>I'l have none but a Highland-laddie.</l>
+               <l>
+                  <hi>O my bonny bonny,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But when we came to <hi>Stirling</hi> Town,</l>
+               <l>he promis'd to make me his Lady,</l>
+               <l>But all the Tocher that <hi>I</hi> got,</l>
+               <l>he row'd me in his Highland Pladie</l>
+               <l>
+                  <hi>O my bonny bonny Lighland-laddie,</hi>
+               </l>
+               <l>
+                  <hi>O my bonny bonny Highland Laddie,</hi>
+               </l>
+               <l>
+                  <hi>When I am sick and like to die</hi>
+               </l>
+               <l>
+                  <hi>he'l row me in his Highland Pladdie.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="song">
+            <head>THE <hi>Royal Shepherd's</hi> Happy Life</head>
+            <opener>To the Tune of the <hi>Yellow haird Ladie:</hi> Or Janny <hi>Milking the Ewes.</hi>
+            </opener>
+            <lg>
+               <head>[1]</head>
+               <l>HOW sweet was the time when we keeped our Flocks,</l>
+               <l>In Shades of the Mountains, and Caves of the Rocks?</l>
+               <l>How sweet were out Nights, how pleasant our Days,</l>
+               <l>When we sung till we slept, and pip'd when we raise?</l>
+            </lg>
+            <lg>
+               <head>[2]</head>
+               <l>Green Turf was our Bed, and for Break-fast we did</l>
+               <l>The Accorn and Earth-nut and Sallad provide:</l>
+               <l>We drank others Healths in the murmuring Stream,</l>
+               <l>And chanted our Notes to <hi>Phillis</hi> her Name.</l>
+            </lg>
+            <lg>
+               <head>[3]</head>
+               <l>How Glorious was I when dres'd by thy Hands,</l>
+               <l>With a Crown made of Lawrel and bays of green Wands,</l>
+               <l>With a Robe made of Rushes and Sword of the same?</l>
+               <l>No <hi>Cesar</hi> more happy triumphing in Fame.</l>
+            </lg>
+            <lg>
+               <head>[4]</head>
+               <l>My Hook was my Schepter, my Club was my Sword,</l>
+               <l>My Scrip was my Purse, these laid on the Board,</l>
+               <l>
+                  <hi>I</hi> presided in Council o're my loyal Band;</l>
+               <l>My Serjants and Macers were still at Command.</l>
+            </lg>
+            <lg>
+               <head>[5]</head>
+               <l>And thou my sweet Princess, how lovely's thy Grace!</l>
+               <l>Thy Mantle of Cypress, and Gown of the Grass,</l>
+               <l>Thy Bracelets of Dazies, with the Buds of the Rose;</l>
+               <l>Never Nymph was so charming amongst her proud shows.</l>
+            </lg>
+            <lg>
+               <head>[6]</head>
+               <l>We kiss'd and embraced and never had done,</l>
+               <l>From rising to setting and rising of Sun:</l>
+               <l>Had the Day been a Year, we never had pain:</l>
+               <l>Call back that sweet time, dear <hi>Phillis,</hi> again.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="song">
+            <head>THE BONNIE LASSIE</head>
+            <opener>To its own pleasant new Tune.</opener>
+            <lg>
+               <l>AS I came up by <hi>Tiviot</hi> side</l>
+               <l>and by the braes of <hi>Branksom</hi>
+               </l>
+               <l>There met <hi>I</hi> with a prettie Lass</l>
+               <l>that was both neat and handsome:</l>
+               <l>If that her mother say me nay</l>
+               <l>Then with the Daughter will I play</l>
+               <l>Whether that she will or nay</l>
+               <l>have at the bonnie Lassie.</l>
+               <l>Dame, gar fill to us more Beer</l>
+               <l>for lo here is more mony</l>
+               <l>And for our reckoning do not fear</l>
+               <l>so long as we have any</l>
+               <l>Gar fill the cup gar fill the Can,</l>
+               <l>Here is a health to our Goodman</l>
+               <l>We shall be merrie ere we gang</l>
+               <l>have at the bonnie Lassie.</l>
+               <l>I dream'd before it came to pass</l>
+               <l>that I would find her willing,</l>
+               <l>But yet I knew not what she was,</l>
+               <l>though she and I were wooing,</l>
+               <l>My thought my mind and mine intent</l>
+               <l>To seek that Lass was ready bent:</l>
+               <l>At last by order we were sent;</l>
+               <l>to quarter up at <hi>Branksome.</hi>
+               </l>
+               <l>Her hastily <hi>I</hi> did espy,</l>
+               <l>though I was but a stranger,</l>
+               <l>A Ribband about her arm did ty</l>
+               <l>and told her of her danger</l>
+               <l>Sweet heart, <hi>I</hi> have sought many place</l>
+               <l>Yet never could <hi>I</hi> see thy face</l>
+               <l>Take pity and relieve my case,</l>
+               <l>my pretty bonny Lassie.</l>
+               <l>I need not to conceal my name</l>
+               <l>I'm born within this nation:</l>
+               <l>Bred in great Honour wealth and fame</l>
+               <l>and of high estimation.</l>
+               <l>Great Nobles were my cousins near,</l>
+               <l>And <hi>I</hi> a noble man of weir,</l>
+               <l>Therefore be merrie and make good chear</l>
+               <l>my pretty bonnie Lassie.</l>
+               <l>Then did she say, my only joy,</l>
+               <l>
+                  <hi>I</hi> will give you contentment,</l>
+               <l>If you will be my <hi>Venus</hi> boy,</l>
+               <l>and give me no affrontment,</l>
+               <l>'Twill credit me and all my kin:</l>
+               <l>If <hi>I</hi> your love and favour win:</l>
+               <l>My hapiness shall then begin,</l>
+               <l>when you my fancie pleasure,</l>
+               <l>My Father and mother will be glad;</l>
+               <l>to you they have relation;</l>
+               <l>Because you are a bonny Lad;</l>
+               <l>and well born in this Nation,</l>
+               <l>You shall dispose of half their geat,</l>
+               <l>And money get to spend by year</l>
+               <l>Both Meal and Malt, corn and Beer</l>
+               <l>for your sweet bonny Lassie.</l>
+               <l>He says I count not for your wealth,</l>
+               <l>for <hi>I</hi> have gold and money;</l>
+               <l>But <hi>I</hi> had rather have thy self,</l>
+               <l>for thou art neat and bonnie:</l>
+               <l>Sweet heart I'le be content of you,</l>
+               <l>if that they give me but a Cow</l>
+               <l>And <hi>I</hi> to thee do make a vow,</l>
+               <l>to be thy <hi>Venus</hi> servant.</l>
+               <l>It is not for thy Fathers geat,</l>
+               <l>nor for thy wordly riches,</l>
+               <l>That I am come a suiter here;</l>
+               <l>that we two may be matches</l>
+               <l>For <hi>I</hi> may have a Lady fair</l>
+               <l>Whose friends would gladly give me gier</l>
+               <l>She hath five hundred Merks a yeer,</l>
+               <l>beside my just proportion.</l>
+               <l>The lass with smiling lips then said,</l>
+               <l>this is a true narration,</l>
+               <l>That many a gallant lusty lad,</l>
+               <l>to me bears such relation,</l>
+               <l>Yea many an able prettie man</l>
+               <l>Would gladly give to me their hand</l>
+               <l>And bowe and be at my command,</l>
+               <l>but fortune now doth cross them.</l>
+               <l>Now wells me of my pretty Lass,</l>
+               <l>that has so soon consented:</l>
+               <l>I was but short while in that place,</l>
+               <l>whill she grew loving hearted</l>
+               <l>My gallant proper handsome Dove,</l>
+               <l>That was not strange and ill to woo</l>
+               <l>But presently did yield and bowe,</l>
+               <l>and granted me my asking.</l>
+               <l>Sweet sir, <hi>I</hi> could not say you nay</l>
+               <l>you are so well accounted:</l>
+               <l>My Madenhead had me give way,</l>
+               <l>When <hi>I</hi> saw you so mounted,</l>
+               <l>With Horse and harness speir and Shield</l>
+               <l>And <hi>Venus</hi> caused me to yeild,</l>
+               <l>'Mongst all my wooers I you weild,</l>
+               <l>because you were so gentle.</l>
+               <l>There's many suiters came to me,</l>
+               <l>before your Love began Sir</l>
+               <l>And bore me frequent companie,</l>
+               <l>but they no favour wan Sir</l>
+               <l>Now are they almost gone astray.</l>
+               <l>with many a shout and wail away,</l>
+               <l>That e're they should have seen this day</l>
+               <l>and what you do unto them.</l>
+               <l>I do disdain no Gentleman</l>
+               <l>that's born within this Nation,</l>
+               <l>For I'm a woman of the same</l>
+               <l>and of high estimation,</l>
+               <l>My mother says I am very sib</l>
+               <l>To the house of <hi>Branksom</hi> by the rib</l>
+               <l>You will be gallant <hi>Weft</hi> to <hi>Web</hi>
+               </l>
+               <l>if justly put together.</l>
+               <l>At length into the North I went</l>
+               <l>to visit Friends and Father,</l>
+               <l>When <hi>I</hi> came back; some days being spent</l>
+               <l>her Mother thought me braver</l>
+               <l>She to her Daughter says, go down,</l>
+               <l>Thy lover now is come to Town;</l>
+               <l>Be kind to him and I a gown,</l>
+               <l>will give thee for thy pains, joy,</l>
+               <l>To go with him I will be glad</l>
+               <l>or do him any pleasure</l>
+               <l>Let us first wed then go to bed,</l>
+               <l>where I will wait his leasure.</l>
+               <l>Ye do me wrong to bid me haste</l>
+               <l>For I will run as he me chac'd</l>
+               <l>When shirt is clean, and cloaths unlac'd</l>
+               <l>from cold I'le strive to keep him.</l>
+               <l>Her Mothers bidding she obeyed.</l>
+               <l>and went into the Chamber;</l>
+               <l>Where he discours'd with her and plaid,</l>
+               <l>withouten noise or clamour,</l>
+               <l>He said, my love, thou hast some Skil</l>
+               <l>And bearest companie with good will</l>
+               <l>I wish I might remain here still,</l>
+               <l>it's neither cold nor frostie.</l>
+               <l>This is the place which <hi>I</hi> do love:</l>
+               <l>and is well keept in order:</l>
+               <l>And no man this will disapprove,</l>
+               <l>that lives in Southern Border,</l>
+               <l>Where nothing is of <hi>Iron</hi> or <hi>Brass</hi>
+               </l>
+               <l>Then freely will I let you pass,</l>
+               <l>And hold you for a pretie Lass</l>
+               <l>for keeping all so cleanlie,</l>
+               <l>You Uncle is no friend to me,</l>
+               <l>
+                  <hi>I</hi> have him at envy:</l>
+               <l>He said <hi>I</hi> laid my love to hie,</l>
+               <l>before some companie.</l>
+               <l>But what ado had he think ye,</l>
+               <l>To meddle with my love and me</l>
+               <l>For love is laid in each degree</l>
+               <l>have at the bonnie Lassie.</l>
+               <l>Sweet Sir, I was once sore afraid</l>
+               <l>you had delay'd your coming</l>
+               <l>Your tarrying made me sore afraid</l>
+               <l>I wearie was with mourning</l>
+               <l>But now <hi>I</hi> neither tire nor irk</l>
+               <l>To bear you companie in the mirk</l>
+               <l>Then gar proclaim us in the Kirk,</l>
+               <l>and we shall wed together.</l>
+               <l>Each one said you would not return</l>
+               <l>nor come into this Nation:</l>
+               <l>Which daily made me for to mourn,</l>
+               <l>with grievous Lamentation;</l>
+               <l>But seeing you'r come back again.</l>
+               <l>Of your coming I'm right fain,</l>
+               <l>And altogether free of pain.</l>
+               <l>ye shall ly in my bosom.</l>
+               <l>When ye in into the Country came,</l>
+               <l>o then but ye were bonny,</l>
+               <l>My Mother took you in hir arms,</l>
+               <l>and said you were her honey</l>
+               <l>Then into <hi>Hawick</hi> did we gang</l>
+               <l>And of the way we thought not long</l>
+               <l>Of us composed was the Song</l>
+               <l>my prety bonny Lassie.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
